@@ -1,4 +1,7 @@
 # Coding Standards<a name = "intro"></a>
+
+In Software Development there are certain coding standards that are needed for successful software development. A Coding standard makes sure that all the developers working on the project are following certain specified guidelines. This consistency has an overall positive impact on the quality of the program produced.
+=======
 In Software Development there are certain coding standards that are needed for successful software development. A Coding standard makes sure that all the developers working on the project are following certain specified guidelines. This consistency has an overall positive impact on the quality of the program produced. 
 
 ## 1. Naming Conventions
