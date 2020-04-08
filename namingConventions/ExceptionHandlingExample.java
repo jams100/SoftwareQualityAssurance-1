@@ -4,7 +4,7 @@ import java.io.File;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-/**
+/** 
  * @author C15339336
  * This class shows our main error handling methods, 
  * 1. Throwing an error
